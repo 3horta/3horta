@@ -1,9 +1,9 @@
 # Hi, I'm Elena 👋
 
-AI engineer and computer scientist. I work with Python and .NET, and I've spent the last 5+ years putting ML and LLM systems into production.
+Computer scientist and AI engineer. I build ML and LLM systems in Python and .NET.
 
 - 🏗️ **SBY Technologies**: computer vision and LiDAR point cloud ML for mining (YOLOv8, SAM 2.1, Open3D), served from .NET microservices on Azure.
-- 🧬 **Sorbonne Université** (research stay, 2026): trained GPT-2-style protein language models in PyTorch and evaluated them on mutational effects (ProteinGym).
+- 🧬 **Sorbonne Université** (research stay): trained GPT-2-style protein language models in PyTorch and evaluated them on mutational effects (ProteinGym).
 - 🎓 **University of Havana (@matcom)**: professor and researcher. I teach Machine Learning and AI, and I co-authored Cecilia 2B, a 2B-parameter language model for Cuban Spanish.
 - 🤖 **LLM applications**: I build RAG systems, multi-agent systems with LangGraph and MCP servers.
 
